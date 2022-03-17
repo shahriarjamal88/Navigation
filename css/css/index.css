@@ -1,0 +1,24 @@
+div.navigation-contanier{
+    width: 800px;
+    height:100px;
+    border:2px solid;
+    background-color: aquamarine;
+ 
+}
+div.navigation-wrapper{
+
+}
+div.navigation-items li {
+    display: inline;
+    padding: 20px;
+    list-style-type:none;
+    justify-content: center;
+}
+div.navigation-items li a{
+    font-size: 3rem;
+    justify-content: center;
+    
+}
+div.navigation-items li a:hover{
+    background-color: chocolate;
+}
